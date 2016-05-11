@@ -1,0 +1,14 @@
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+![Bb]in
+![Bb]in/*.*
+/App_Data/TEMP
+/App_Data/Logs
+/App_Data/cache
+/Media
+!App_Data/*.sdf
